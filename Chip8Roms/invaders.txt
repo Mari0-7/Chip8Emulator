@@ -1,0 +1,4 @@
+W = Start game
+W = Shoot
+Q = Move to the left
+E = Move to the right

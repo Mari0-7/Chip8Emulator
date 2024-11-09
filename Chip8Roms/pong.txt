@@ -1,0 +1,9 @@
+Player 1:
+      
+2 = Go up
+Q = Go down
+
+Player 2:
+
+Z = Go up
+X = Go down
